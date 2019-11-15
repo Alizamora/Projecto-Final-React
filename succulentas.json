@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "category": "Sedum",
+      "description": "Sedum Dasyphyllum Major, también conocido como Corsican Stonecrop o Blue Tears Sedum, es una planta suculenta de hoja perenne de rápido crecimiento. Este pequeño sedum de cobertura del suelo presenta un adorable follaje azul verdoso con largos tallos ramificados y pequeñas hojas redondas. Sedum Dasyphyllum Major puede soportar el tránsito peatonal ligero, lo que lo convierte en un excelente sustituto del césped con poca agua. Puede recortarlo para crear una estera densa y dejar los recortes para enraizar y crecer en nuevas plantas.",
+      "id": 1,
+      "price": "$5.45",
+      "title": "SEDUM MAJOR SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_MAJOR_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Dragon Blood Sedum es un sedum increíble con flores de color rosa intenso que florecen desde principios hasta fines del verano. Sus hojas son verdes en climas cálidos, pero convierten un magnífico vino rojo en temperaturas frías. Como sedum, puede extenderse fácilmente para convertirse en una cubierta vegetal.",
+      "id": 2,
+      "price": "$5.45",
+      "title": "DRAGON'S BLOOD SEDUM",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/DRAGON'S_BLOOD_SEDUM%20.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "El color es azul verdoso y púrpura y el color púrpura se extiende cuando expone la planta al sol. Tiene hojas opuestas y un tallo rastrero que forma arbustos. Sedum Dasyphyllum Minor tiene pequeñas flores blancas con pequeños puntos negros en los pétalos y ovarios verdes. Este sedum es ideal para cultivos de piedra y cobertura del suelo.",
+      "id": 3,
+      "price": "$5.45",
+      "title": "SEDUM MINOR SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_MINOR_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Este listado está para un tamaño de 2 pulgadas o 4 pulgadas de Little Missy Sedum, un pequeño sedum lindo. El follaje suculento abigarrado en forma de corazón realmente alegrará su jardín. Las hojas son de color amarillo claro y rosa en los bordes. Esta suculenta es perfecta para cultivos de piedra y cobertura del suelo. Pequeñas flores Missy desde verano hasta principios de otoño, atrae mariposas y abejas. Es muy tolerante al calor y la sequía y requiere poco mantenimiento. Esta suculenta es perfecta para cultivar en exterior.",
+      "id": 4,
+      "price": "$5.45",
+      "title": "SEDUM LITTLE MISSY SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_LITTLE_MISSY_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Burrito, también conocido como Burro's Tail o Donkey's Tail Succulent, es originario de México. Es una planta suculenta perenne fácil de cultivar y puede tolerar cualquier tipo de suelo con buen drenaje. Tiene hojas redondeadas y carnosas de color verde plateado que están densamente empaquetadas en tallos colgantes.",
+      "id": 5,
+      "price": "$5.45",
+      "title": "SEDUM DONKEY'S TAIL SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_DONKEY'S_TAIL_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum spurium Tricolor (o Phedimus spurius Tricolor) es una variedad suculenta resistente con follaje blanco, verde y rosa. Sus hojas son pequeñas y carnosas con centro verde y márgenes rosados ​​blancos. En el verano, pequeñas flores de durazno en forma de estrella aparecen en racimos. Sedum spurium Tricolor es una gran planta trepadora para cubrir una pared con otros tipos de arrastre verde, o en un borde mixto. Pode con fuerza para mantener fresco el gran follaje abigarrado y recorte cualquier hoja verde lisa ya que tiende a revertirse.",
+      "id": 6,
+      "price": "$5.45",
+      "title": "SEDUM TRICOLOR SPURIUM",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_TRICOLOR_SPURIUM.png"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Adolphii desarrolla un tono anaranjado o rojo cuando recibe una gran cantidad de luz solar. A medida que las rosetas maduran, crecen nuevas hojas en el centro y arrojan las hojas más viejas en el suelo. Estas hojas viejas pueden enraizar y crecer en nuevas plantas.",
+      "id": 7,
+      "price": "$5.45",
+      "title": "SEDUM FIRE STORM SUCCULENT",
+      "image": "https://github.com/Alizamora/Imagenes/blob/master/Suculentas/SEDUM_FIRE_STORM_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Pachyphyllum, también conocido como Green Jelly Bean Sedum, es una linda suculenta con hojas verdes plateadas, rechonchas y cortas que tienen puntas rojas cuando se cultivan a pleno sol.",
+      "id": 8,
+      "price": "$5.45",
+      "title": "GREEN JELLY BEAN SEDUM",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/GREEN_JELLY_BEAN_SEDUM.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Graptosedum Sunset California Sunset ’es una diversión suculenta con hojas de color rosa anaranjado que forman pequeñas rosetas similares a las de Echeverias. Los tallos tienden a crecer largos y de piernas largas. El nuevo crecimiento tiene un color verde grisáceo, pero el tono naranja rosado se intensificará por la sequía y las frías temperaturas invernales.",
+      "id": 9,
+      "price": "$5.45",
+      "title": "GRAPTOSEDUM CALIFORNIA SUNSET",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/GRAPTOSEDUM_CALIFORNIA_SUNSET.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Cremnosedum Little Gem, híbrido de Sedum y Cremnophlia, forma esteras de pequeñas rosetas de hojas puntiagudas y carnosas concéntricas. Little Gem Sedum es una cubierta de suelo perfecta que se extiende a aproximadamente 12 pulgadas de ancho y aproximadamente 3 pulgadas de alto. Las rosetas son de color verde oliva brillante pero se vuelven rojo cobrizo con una luz intensa.",
+      "id": 10,
+      "price": "$5.45",
+      "title": "SEDUM LITTLE GEM SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_LITTLE_GEM%20_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Fuzzy Wuzzy Sedum es una linda y suculenta miniatura con pequeños rosetones regordetes cubiertos de pequeños cabellos blancos. Debido a su pequeño tamaño, es muy frágil. Crece muy rápido y necesita mucha luz brillante para mantenerse en buena forma y salud, por lo que si se cultiva en sombra o incluso en sombra parcial, puede etiolarse en un día o dos.",
+      "id": 11,
+      "price": "$5.45",
+      "title": "SEDUM FUZZY WUZZY SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_FUZZY_WUZZY_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Los pachyclados de Sedum, también conocidos como White Diamond Stonecrop, tienen rosetas en forma de copa de color gris azulado que forman una perfecta cubierta de felpa. Las puntas de las hojas están profundamente aserradas. Cuando las rosetas atrapan una gota de agua, la sostienen y la hacen brillar como un diamante blanco.",
+      "id": 12,
+      "price": "$5.45",
+      "title": "WHITE DIAMOND SEDUM PACHYCLADOS",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/WHITE_DIAMOND_SEDUM_PACHYCLADOS.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Spathulifolium 'Cape Blanco' es un adorable sedum en miniatura con pequeñas rosetas plateadas blancas. Las rosetas están cubiertas con un recubrimiento ceroso que evita la pérdida de humedad. En climas más fríos, las rosetas pueden volverse rosadas. Cabo Blanco tiene flores estrelladas doradas a fines del verano.",
+      "id": 13,
+      "price": "$5.45",
+      "title": "CAPE BLANCO SEDUM SPATHULIFOLIUM",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/CAPE_BLANCO_SEDUM_SPATHULIFOLIUM.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Cherry Tart Sedum es una suculenta cubierta vegetal única que produce un llamativo follaje rojo cereza compacto. Produce flores de color rosa intenso que atraen a las abejas y las mariposas.",
+      "id": 14,
+      "price": "$5.45",
+      "title": "CHERRY TART SEDUM SUNSPARKLER",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/CHERRY_TART_SEDUM_SUNSPARKLER.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Crassula pubescens subsp. radicans, es un sedum impresionante con hojas diminutas que pueden enrojecerse intensamente cuando se cultiva bajo el estrés del sol y la sequía. Las hojas son verdes con punta roja la mayor parte del año, sin embargo, si no se les da suficiente luz solar. Las raíces crecen libremente desde los nodos de las hojas, lo que permite que este sedum se extienda y forme una gran alfombra con el tiempo, de ahí su sobrenombre de "Sedum Red Carpet". Es una planta de mantenimiento extremadamente bajo que requiere muy poca agua y puede sobrevivir en la mayoría de las condiciones del suelo.",
+      "id": 15,
+      "price": "$5.45",
+      "title": "RED CARPET SEDUM SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/RED_CARPET_SEDUM_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Spathulifolium, también conocido como Broadleaf Stonecrop, es una suculenta que forma esteras. Es originaria de los acantilados rocosos y los bancos con sombra en las costas de California y Sierra Nevada al norte de Columbia Británica. Sus rosetas planas están hechas de pequeñas hojas rojas en forma de cuchara.",
+      "id": 16,
+      "price": "$5.45",
+      "title": "SEDUM SPATHULIFOLIUM",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_SPATHULIFOLIUM.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Lime Zinger Sedum es una cubierta vegetal colorida con fantásticas hojas de color verde lima bordeadas en rojo cereza brillante. El follaje único crea una impresionante exhibición en el piso del jardín, dando paso a suaves flores rosadas desde el verano hasta el otoño. Su compacto hábito de crecimiento de 4 ″ de alto x 18 ″ de ancho lo convierte en un nuevo y magnífico sedum de cobertura vegetal.",
+      "id": 17,
+      "price": "$5.45",
+      "title": "SEDUM LIME ZINGER SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_LIME_ZINGER_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum hispanicum, también conocido como Blue Carpet o Spanish Stonecrop, es una suculenta perenne resistente que forma un cojín apretado de pequeñas hojas con forma de aguja de color gris azulado. Sedum hispanicum crece lentamente y solo alcanza 2 pulgadas de alto y 8 pulgadas de ancho en la madurez. Sedum hispanicum puede tornarse de color morado oscuro en invierno frío. Es perfecto como cobertura del suelo para plantar entre peldaños.",
+      "id": 18,
+      "price": "$5.45",
+      "title": "SEDUM HISPANICUM SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_HISPANICUM_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "A fines del verano o principios del otoño, produce hermosos racimos de flores rosas fuertes que atraen a las mariposas. Sedum Sunsparkler Blue Elf, fácil de cuidar, puede sobrevivir a la sequía en cualquier tipo de suelo.",
+      "id": 19,
+      "price": "$5.45",
+      "title": "BLUE ELF SEDUM SUNSPARKLER",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/BLUE_ELF_SEDUM_SUNSPARKLER.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": " Aurora Jelly Bean Sedum - Sedum Rubrotinctum 'Aurora' es una encantadora edición abigarrada de Sedum Rubrotinctum, una suculenta perenne perenne. Sus hojas son gorditas, con forma de gominola en tonos adorables de verde suave, rosa y crema, de ahí su apodo lindo Pink Jelly Bean.",
+      "id": 20,
+      "price": "$5.45",
+      "title": "AURORA PINK JELLY BEAN SEDUM",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/AURORA_PINK_JELLY_BEAN_SEDUM.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Suzie Q English Stonecrop es un sedum de aspecto muy delicado con hojas abigarradas en miniatura. Las temperaturas frías resaltan el color rojo que da lugar al follaje crema en los meses más cálidos. También conocido como Suzy Q, este sedum es ideal para jardines de hadas en miniatura.", 
+      "id": 21,
+      "price": "$5.45",
+      "title": "SEDUM SUZIE Q ENGLISH",  
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_SUZIE_Q_ENGLISH.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Stahlii, también conocido como Coral Beads o Coral Bells, es una hermosa cubierta vegetal de hoja perenne que produce hojas rojas en forma de huevo similares a las de Jelly Bean Sedum.",
+      "id": 22,
+      "price": "$5.45",
+      "title": "CORAL BELLS SEDUM - MEXICAN STAHLII",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/CORAL_BELLS_SEDUM-MEXICAN_STAHLII.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Sieboldii, también conocido como October Daphne, es una especie con forma de moho que extiende ramas horizontales desde el centro. Sus hojas miden más de media pulgada y tienen un tono azul verdoso con márgenes rosados. Durante los calurosos meses de verano, el color de estos márgenes se intensifica en rosa intenso.",
+      "id": 23,
+      "price": "$5.45",
+      "title": "SEDUM SIEBOLDII SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_SIEBOLDII_SUCCULENT.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Lime Twister es un sedum atractivo con hojas verdes azuladas bordeadas de amarillo suave. Es la versión abigarrada de Sedum Lime Zinger, que tiene follaje verde lima. Crece rápidamente para formar un tapete completo, lo que lo convierte en una excelente cobertura de suelo a pequeña escala o en un contenedor de relleno.",
+      "id": 24,
+      "price": "$5.45",
+      "title": "LIME TWISTER SEDUM SUNSPARKLER",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/LIME_TWISTER_SEDUM_SUNSPARKLER.jpg"
+    },
+    {
+      "category": "Sedum",
+      "description": "Sedum Golden Moss (Sedum de oro) es una cubierta vegetal perenne de hoja perenne que es perfecta para jardines de rocas. Forma una hermosa estera con pequeñas flores amarillas brillantes en forma de estrella en primavera y verano. Las hojas son pequeñas, en forma de aguja y de color verde lima. También funciona bien en contenedores y cestas colgantes. Golden Moss Stonecrop atrae mariposas.",
+      "id": 25,
+      "price": "$5.45",
+      "title": "SEDUM GOLDEN MOSS SUCCULENT",
+      "image": "https://raw.githubusercontent.com/Alizamora/Imagenes/master/Suculentas/SEDUM_GOLDEN_MOSS_SUCCULENT.jpg"
+    }
+  ]
+}
