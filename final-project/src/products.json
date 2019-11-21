@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "category": "t-shirt",
+            "availableSizes": ["S", "XS"],
+            "description": "4 MSL",
+            "id": 1,
+            "price": 10.9,
+            "title": "Cat Tee Black T-Shirt",
+            "imageUrl": "https://placekitten.com/g/200/300"
+        },
+        {
+            "category": "t-shirt",
+            "availableSizes": ["S", "XS"],
+            "description": "4 MSL",
+            "id": 1,
+            "price": 10.9,
+            "title": "Cat Tee Black T-Shirt",
+            "imageUrl": ["https://placekitten.com/g/200/300", ]
+        },
+        {
+            "category": "t-shirt",
+            "availableSizes": ["S", "XS"],
+            "description": "4 MSL",
+            "id": 1,
+            "price": 10.9,
+            "title": "Cat Tee Black T-Shirt",
+            "imageUrl": "https://placekitten.com/g/200/300"
+        }
+    ]
+}
