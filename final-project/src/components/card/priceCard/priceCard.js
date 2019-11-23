@@ -1,3 +1,3 @@
 import React from 'react';
 
-export default (props) => <spam priceCard={props.priceCard} />
+export default (props) => <span>{props.priceCard}</span>

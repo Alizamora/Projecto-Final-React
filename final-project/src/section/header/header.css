@@ -1,0 +1,30 @@
+.Cart,
+.logo {
+  fill: white;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.buttonHome,
+.buttonCart {
+  background-color: transparent;
+  display: flex;
+  border: none;
+  height: 100px;
+  margin: 10px;
+  width: 100px;
+}
+
+.headerContainer {
+  background-color: #34c7aa;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  width: 98%;
+}
+
+.titleShop {
+  font-size: 38px;
+  color: white;
+  letter-spacing: 10px;
+}
