@@ -1,0 +1,38 @@
+.viewDetails_container {
+  position: relative;
+  display: inline-block;
+  width: 25%;
+  margin: 20px;
+  text-align: center;
+  padding: 25px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.23);
+  border: none;
+  transition: 0.2s;
+}
+
+.viewDetails_container:hover {
+  transform: scale(1.1);
+}
+
+.viewDetails_container:hover > * {
+  filter: blur(1px) grayscale(100%);
+}
+
+.viewDetails_container:hover::before {
+  content: "View Details";
+  color: white;
+  letter-spacing: 2px;
+  font-size: 20px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  z-index: 1;
+}

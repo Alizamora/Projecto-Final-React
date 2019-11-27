@@ -1,0 +1,20 @@
+.body_title {
+  margin: 0;
+  color: gray;
+  padding: 30px 0;
+  margin: 0;
+}
+
+.body_parragraph {
+  color: darkgray;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.wrapper {
+  background-image: url(/static/media/succulents.6e30ffa5.jpeg);
+  background-size: cover;
+  padding: 0 10%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}

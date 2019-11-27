@@ -1,15 +1,18 @@
-import React, { useState, useEffect } from 'react';
-import request from '../../request';
-import CardsContainer from '../../components/cardsContainer';
+import React, { useState, useEffect, useContext } from 'react';
+import request from '../../../request';
+import CardsContainer from '../../../components/cardsContainer/cardsContainer';
+import Context from '../../../react-context';
 import './body.css'
 
 export default () => {
 	const [cards, setCards] = useState([]);
-
+	const context = useContext(Context);
+	
 	useEffect(() => {
 		request('./succulentas.json').then(data => {
-			console.log(data.products)
-			setCards(data.products)
+			console.log(data.products);
+			setCards(data.products);
+			context.products = data.products;
 		});
 	}, []);
 

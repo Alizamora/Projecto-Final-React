@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../section/header/header'
-import Body from '../section/body/body';
-import '../styles/global.css';
+import Header from '../section/home-page-sections/header/header'
+import Body from '../section/home-page-sections/body/body';
+import '../styles/global-styles.css';
 
 export default () => {
 

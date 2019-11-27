@@ -6,6 +6,11 @@
 	border: none;
 	padding: 10px;
 	font-weight: 700;
+	margin-top: 20px;
+}
+
+.button_addCart:hover{
+	
 }
 
 .imgCart {
