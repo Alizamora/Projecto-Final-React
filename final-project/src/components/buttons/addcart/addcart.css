@@ -1,3 +1,14 @@
-.button_addCart{
-    
+.button_addCart {
+	width: 100%;
+	border-radius: 10px;
+	background-color: #78b269;
+	color: white;
+	border: none;
+	padding: 10px;
+	font-weight: 700;
+}
+
+.imgCart {
+  max-width: 20px;
+  padding-right: 20px;
 }

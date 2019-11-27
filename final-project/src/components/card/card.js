@@ -9,11 +9,11 @@ import './card.css';
 export default (props) => {
   return (
     <div className='cardContainer'>
-      <Addcart />
       <ImageCard src={props.imageUrl} alt={`image of ${props.name}`} />
       <TitleCard title={props.name}/>
       <PriceCard priceCard={props.price} />
       <DescriptionCard descriptionCard={props.description}/>
+      <Addcart />
     </div>
   )
 }
