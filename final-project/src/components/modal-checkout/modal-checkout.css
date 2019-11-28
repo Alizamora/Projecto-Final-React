@@ -1,0 +1,38 @@
+.modal_container_checkout {
+  width: 100%;
+  height: 100vh;
+  background-color: #000000cf;
+  display: grid;
+  color: white;
+  position: fixed;
+  place-content: center;
+  grid-template-columns: 20% 20%;
+  grid-gap: 10px;
+}
+
+.Checkout_text {
+	grid-column: 1/3;
+	font-size: 30px;
+}
+
+.btn_checkout_pay,
+.btn_checkout_cancel {
+  border: none;
+  border-radius: 5px;
+  color: white;
+  height: 35px;
+}
+
+.btn_checkout_pay:hover,
+.btn_checkout_cancel:hover {
+  filter: sepia(1);
+  transform: scale(1);
+}
+
+.btn_checkout_pay {
+  background-color: #78b269;
+}
+
+.btn_checkout_cancel {
+  background-color: darkgray;
+}
