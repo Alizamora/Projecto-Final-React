@@ -7,9 +7,9 @@ export default (props) => {
 		<div className="checkout_container">
 			<p>Subtotal</p>
 			<span className="subtotal" >${subtotal}</span>
-			<button type="submit" className="btn_checkout">
+			<button type="submit" className="btn_checkout" onClick={props.click}>
 				Checkout
-    	</button>
+    		</button>
 		</div>
 	)
 }

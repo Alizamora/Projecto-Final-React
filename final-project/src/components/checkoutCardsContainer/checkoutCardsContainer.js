@@ -35,7 +35,7 @@ export default (props) => {
           {...card}
       />)}
 
-      <Btn_Checkout cards={props.cards}/>
+      <Btn_Checkout cards={props.cards} click={props.click} pay={props.pay} cancel={props.cancel}/>
     </div>
   )
 }

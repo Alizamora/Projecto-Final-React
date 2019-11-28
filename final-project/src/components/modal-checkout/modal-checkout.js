@@ -5,8 +5,8 @@ export default (props) => {
 	return (
 		<div>
 			<p>The total of your purchase is <span>${props.total}</span></p>
-			<button type="submit">Pay</button>
-			<button type="submit">Cancel</button>
+			<button onClick={props.pay} type="submit">Pay</button>
+			<button onClick={props.cancel}>Cancel</button>
 		</div>
 	)
 }
