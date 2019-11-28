@@ -1,11 +1,11 @@
-.btn_exit{
-    position: absolute;
-    top: 20px;
-    right: 100px;
-    background: transparent;
-    border: none;
+.btn_exit {
+  position: absolute;
+	top: 15%;
+	right: 15%;
+  background: transparent;
+  border: none;
 }
 
-.exit_img{
-
+.exit_img {
+  max-width: 30px;
 }

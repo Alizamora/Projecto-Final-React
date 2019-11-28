@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Card from '../buttons/btn-view-details/btn-view-details';
+import CheckoutCard from '../checkout-card/checkout-card';
 import Modal from '../modal-details/modal-details';
-import './cardsContainer.css'
+import './checkoutCardsContainer.css'
 
 export default (props) => {
   const [modalCard, setModalCard] = useState();
@@ -13,7 +13,7 @@ export default (props) => {
         }} {...modalCard} card={modalCard} />
       }
       {props.cards.map((card, i) =>
-        <Card
+        <CheckoutCard
           click={() => {
             setModalCard(card);
           }}

@@ -1,10 +1,10 @@
 import React from 'react';
-import './btn-exit';
+import './btn-exit.css';
 
-export default () => {
-    return(
-        <button className="bnt_exit" >
-            <img className="exit_img" src="./equix.svg" alt="Exit botton" />
-        </button>
-    )
-}
+export default (props) => {
+	return (
+		<button className="btn_exit" onClick={props.click} >
+			<img className="exit_img" src="./equix.svg" alt="Exit botton" />
+		</button>
+	)
+} 

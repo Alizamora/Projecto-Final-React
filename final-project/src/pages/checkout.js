@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import Context from '../react-context';
 import Header from '../section/home-page-sections/header/header';
-import CardsContainer from '../components/cardsContainer/cardsContainer';
+import CheckoutCardsContainer from '../components/checkoutCardsContainer/checkoutCardsContainer';
 
 export default () => {
 	const context = useContext(Context);
@@ -10,7 +10,7 @@ export default () => {
 		<div>
 			<Header />
 			<h1>Checkout</h1>
-			<CardsContainer cards={context.products_cart} />
+			<CheckoutCardsContainer cards={context.products_cart} />
 		</div>
 	)
 }

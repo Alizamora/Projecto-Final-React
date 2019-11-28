@@ -13,13 +13,18 @@ export default (props) => {
 
     return (
         <div className='modal_container'>
-            <Exit />
+            <Exit click={props.exit} />
             <Image src={props.imageUrl} alt={`image of ${props.name}`} />
             <Title title={props.name} />
             <Price priceCard={props.price} />
             <Description descriptionCard={props.description}/>
-            <AddCart click={() => {
-                context.products_cart.push(props.card);
+            <AddCart click={(e) => {
+                const objIndex = context.products_cart.map(e => JSON.stringify(e)).indexOf(JSON.stringify(props.card));
+                const isObjInArray = objIndex > -1;
+                const obj = context.products_cart[objIndex];
+
+                if (isObjInArray) obj.amount += 1;
+                else context.products_cart.push(props.card);
             }} />
         </div>
 

@@ -1,0 +1,19 @@
+.checkout_card_container {
+	width: 80%;
+	display: grid;
+  grid-template-columns: 30% 1fr;
+  grid-template-rows: 20% 20% 20% 20%;
+}
+
+.image_checkout {
+	height: 300px;
+	grid-column: 1/2;
+    grid-row: 1/5;
+}
+
+.title_checkout {
+  display: inline-block;
+}
+
+.price_checkout {
+}
