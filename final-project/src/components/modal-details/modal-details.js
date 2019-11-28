@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
 import Context from '../../react-context';
+import Exit from '../buttons/btn-exit/btn-exit';
 import Image from '../imageCard/imageCard';
 import Title from '../titlecard/titlecard';
 import Price from '../priceCard/priceCard';
@@ -12,6 +13,7 @@ export default (props) => {
 
     return (
         <div className='modal_container'>
+            <Exit />
             <Image src={props.imageUrl} alt={`image of ${props.name}`} />
             <Title title={props.name} />
             <Price priceCard={props.price} />
