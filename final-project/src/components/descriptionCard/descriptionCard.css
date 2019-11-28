@@ -2,4 +2,5 @@
   color: gray;
   font-size: 12px;
   text-align: left;
+  grid-area: description;
 }

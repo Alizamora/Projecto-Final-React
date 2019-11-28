@@ -1,0 +1,44 @@
+.modal_container {
+	position: fixed;
+	z-index: 1;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: #000000e0;
+	display: grid;
+	grid-template-columns: 50%;
+	grid-template-rows: 20% 0% 30% 10%;
+	grid-template-areas:
+			". . title"
+			"image image price"
+			"image image description"
+			". . button";
+	grid-gap: 20px;
+	justify-content: center;
+	align-content: center;
+}
+
+.modal_image {
+  max-width: 90%;
+  justify-self: center;
+  align-self: center;
+  border-radius: 10px;
+}
+
+.modal_title {
+  align-self: end;
+}
+
+.modal_price {
+  color: white;
+}
+
+.modal_description {
+  font-size: 19px;
+  color: white;
+  padding-right: 25%;
+}
+
+.modal_btn_addCart {
+
+}
