@@ -3,7 +3,7 @@ import './checkout-body.css';
 
 export default () => {
     return (
-        <h1 className="title_checkout" >Your Products</h1>
+        <h1 className="principal_title_checkout" >Your Products</h1>
     )
 }
 
