@@ -1,14 +1,19 @@
 .checkout_card_container {
-	width: 80%;
-	display: grid;
+  width: 80%;
+  display: grid;
   grid-template-columns: 30% 1fr;
-  grid-template-rows: 20% 20% 20% 20%;
+  grid-template-rows: 20% 10% 10% 15%;
+  grid-gap: 10px;
+  align-content: center;
+  margin-bottom: 20px;
+  justify-self: center;
+  align-items: center;
 }
 
 .image_checkout {
-	height: 300px;
-	grid-column: 1/2;
-    grid-row: 1/5;
+  height: 300px;
+  grid-column: 1/2;
+  grid-row: 1/5;
 }
 
 .title_checkout {

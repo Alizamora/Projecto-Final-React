@@ -1,0 +1,11 @@
+.checkout_container {
+  width: 100%;
+  background-color: #78b269;
+  color: white;
+  display: flex;
+  height: 70px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0px;
+}

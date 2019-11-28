@@ -12,8 +12,8 @@ export default (props) => {
 			<Image className="image_checkout" src={props.imageUrl} alt={`image of ${props.name}`} />
 			<Title className="title_checkout" title={props.name} />
 			<Price className="price_checkout" priceCard={props.price} />
-			<More_and_less />
-			<Btn_remove />
+			<More_and_less value={props.amount} change={props.change} />
+			<Btn_remove click={props.remove} />
 		</div>
 	)
 }
