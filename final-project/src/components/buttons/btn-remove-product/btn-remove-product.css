@@ -1,6 +1,11 @@
 .btn-remove-product {
-    width: 20%;
-    border: none;
-    border-radius: 10px;
-    height: 35px;
+  width: 20%;
+  border: none;
+  border-radius: 10px;
+  height: 35px;
+}
+
+.btn-remove-product:hover {
+  transform: scale(1);
+  filter: sepia(1);
 }

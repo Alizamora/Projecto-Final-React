@@ -6,8 +6,8 @@ export default (props) => {
 	return (
 		<div className="checkout_container">
 			<p>Subtotal</p>
-			<span>{subtotal}</span>
-			<button type="submit">
+			<span className="subtotal" >{subtotal}</span>
+			<button type="submit" className="btn_checkout">
 				Checkout
     	</button>
 		</div>

@@ -1,17 +1,18 @@
 .button_addCart {
-	width: 70%;
-	border-radius: 10px;
-	background-color: #78b269;
-	color: white;
-	border: none;
-	padding: 10px;
-	font-weight: 700;
-	margin-top: 20px;
-	grid-area: button;
+  width: 70%;
+  border-radius: 10px;
+  background-color: #78b269;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-weight: 700;
+  margin-top: 20px;
+  grid-area: button;
 }
 
-.button_addCart:hover{ 	
-	
+.button_addCart:hover {
+  transform: scale(1);
+  filter: sepia(1);
 }
 
 .imgCart {
