@@ -4,16 +4,26 @@
   height: 100vh;
   display: grid;
   place-content: center;
-  background-color: #ffffffc7;
-	z-index: 1;
-	justify-items: center;
+  background-color: white;
+  z-index: 1;
+  justify-items: center;
 }
 
 .sm_img {
+  width: 25%;
 }
 
 .sm_text {
+  font-size: 25px;
 }
 
 .btn_sm {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 30px;
+}
+
+.btn_sm:hover{
+	filter: sepia(1);
+	transform: scale(1);
 }

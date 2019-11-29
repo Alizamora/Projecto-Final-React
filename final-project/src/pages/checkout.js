@@ -18,8 +18,7 @@ export default () => {
 			<Header />
 			<Title />
 			<CheckoutCardsContainer cards={context.products_cart} click={e => setModal(<Modal_Checkout pay={() => {
-				setTimeout(setModal(<Success_Message click={() => setModal(null)} />), 3000)
-				//setModal(null);
+				setTimeout(setModal(<Success_Message click={() => setModal(null)} />), 3000);
 			}}
 				cancel={() => {
 					setModal(null);
