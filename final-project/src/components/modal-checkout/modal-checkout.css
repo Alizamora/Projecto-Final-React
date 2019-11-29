@@ -8,6 +8,8 @@
   place-content: center;
   grid-template-columns: 20% 20%;
   grid-gap: 10px;
+  grid-gap: 10px;
+  z-index: 1;
 }
 
 .Checkout_text {

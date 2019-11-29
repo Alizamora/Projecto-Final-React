@@ -1,5 +1,6 @@
 .principal_title_checkout {
-  text-align: center;
+  text-align: left;
   display: block;
   color: gray;
+  padding-left: 10%;
 }

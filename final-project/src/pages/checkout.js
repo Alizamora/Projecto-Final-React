@@ -4,6 +4,8 @@ import Header from '../section/home-page-sections/header/header';
 import CheckoutCardsContainer from '../components/checkoutCardsContainer/checkoutCardsContainer';
 import Title from '../section/checkout-page-sections/checkout-body';
 import Modal_Checkout from '../components/modal-checkout/modal-checkout';
+import Success_Message from '../components/success-message/success-message';
+import { tsPropertySignature } from '@babel/types';
 
 export default () => {
 	const context = useContext(Context);
@@ -16,12 +18,13 @@ export default () => {
 			<Header />
 			<Title />
 			<CheckoutCardsContainer cards={context.products_cart} click={e => setModal(<Modal_Checkout pay={() => {
-				setModal(null);
-			}} 
-			cancel={() => {
-				setModal(null);
+				setTimeout(setModal(<Success_Message click={() => setModal(null)} />), 3000)
+				//setModal(null);
 			}}
-			total={subtotal} />)} />
+				cancel={() => {
+					setModal(null);
+				}}
+				total={subtotal} />)} />
 		</div>
 	)
 }
