@@ -5,7 +5,6 @@ import CheckoutCardsContainer from '../components/checkoutCardsContainer/checkou
 import Title from '../section/checkout-page-sections/checkout-body';
 import Modal_Checkout from '../components/modal-checkout/modal-checkout';
 import Success_Message from '../components/success-message/success-message';
-import { tsPropertySignature } from '@babel/types';
 
 export default () => {
 	const context = useContext(Context);
@@ -18,7 +17,7 @@ export default () => {
 			<Header />
 			<Title />
 			<CheckoutCardsContainer cards={context.products_cart} click={e => setModal(<Modal_Checkout pay={() => {
-				setTimeout(setModal(<Success_Message click={() => setModal(null)} />), 3000);
+				setTimeout(setModal(<Success_Message click={() => setModal(null)} />), 5000);
 			}}
 				cancel={() => {
 					setModal(null);
